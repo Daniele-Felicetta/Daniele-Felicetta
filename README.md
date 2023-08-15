@@ -22,8 +22,8 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniele-felicetta&layout=donut" />
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=daniele-felicetta&show_icons=true&theme=radical" />
 
-rec from 15/08/2023
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daniele_felicetta)](https://github.com/daniele-felicetta/github-readme-stats)
+rec from 15/08/2023
 
 <!--
 
