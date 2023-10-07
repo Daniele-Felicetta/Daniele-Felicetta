@@ -15,7 +15,7 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <br>
-### Check out <a href="danielefelicetta.it">my personal website</a>
+### Check out <a href="https://danielefelicetta.it"> my personal website</a>
 <hr>
 <br>
 
