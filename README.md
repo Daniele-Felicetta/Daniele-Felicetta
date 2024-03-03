@@ -1,5 +1,4 @@
 <h1>Hi there, I'm Daniele👋 <br><br>
-  I'm a front-end web developer and looking to become a full-stack developer</h1>
 
 ### I usually use
 
